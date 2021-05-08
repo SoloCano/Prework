@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SoloCano/Prework/issues"
   },
-  "homepage": "https://github.com/SoloCano/Prework#readme"
+  "homepage": "https://github.com/SoloCano/Prework#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
